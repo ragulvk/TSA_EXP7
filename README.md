@@ -1,5 +1,5 @@
 # Ex.No: 07                                       AUTO REGRESSIVE MODEL
-### Name:
+### Name: Ragul VK
 
 ### Register No: 212221240043
 
