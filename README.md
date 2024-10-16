@@ -1,5 +1,7 @@
 # Ex.No: 07                                       AUTO REGRESSIVE MODEL
-### Date: 
+### Name:
+
+### Register No: 212221240043
 
 
 
